@@ -32,4 +32,4 @@ Esta es la primera version subida de codigo que se llama
   >> Horarios 1.0 <<
 Para la versiones extras se añadiran un 1.0 si hace una modificacion del codigo agregaremos .1 para el control de versiones.
 
-                                                                                                                                                                          >  >  Creado por Olvera Cano Andrés Arturo < < 
+            >  >  Creado por Olvera Cano Andrés Arturo < < 
