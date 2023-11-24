@@ -1,6 +1,6 @@
 # Horarios
-                                                   Pruebas de los horario rotativos 
-                        Que buscamos es hacer una aplicacion para la semana es decir la informacion que nos compartieron fue la siguiente:
+      Pruebas de los horario rotativos 
+    Que buscamos es hacer una aplicacion para la semana es decir la informacion que nos compartieron fue la siguiente:
 Para 9 personas de los cuales debemos acomodar de la siguiente manera  
                     Tenemos lo siguiente horarios:
                     
